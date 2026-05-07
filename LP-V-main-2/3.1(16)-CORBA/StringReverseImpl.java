@@ -36,4 +36,9 @@ java StringReverseServer -ORBInitialPort 1050 -ORBInitialHost localhost         
 java StringReverseClient -ORBInitialPort 1050 -ORBInitialHost localhost         //termi3
 
 
+///
+remove java
+update-java-alternatives --list
+sudo apt remove openjdk-17-jdk
+
 */
