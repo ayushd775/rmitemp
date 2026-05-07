@@ -2,8 +2,6 @@
 *.log
 *.out
 *.err
-*.pdf
-LP-V PROBLEM STATEMENTS SBD.pdf
 .vscode/
 .idea/
 
